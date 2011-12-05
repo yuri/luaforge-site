@@ -70,9 +70,9 @@ $content
 PROJECT_TEMPLATE = [[
 <p>$abstract</p>
 
-<table>
+<table width="80%">
  <tr>
-  <td><b>Website:</b></td>
+  <td width="30%"><b>Website:</b></td>
   <td>$website</td>
  </tr>
  <tr>
@@ -108,7 +108,13 @@ PROJECT_TEMPLATE = [[
   <td>$lists</a></td>
  </tr>
  <tr>
-  <td><b>Archived Releases:</b></td>
+  <td>
+   <b>Archived Releases:</b><br/>
+   <span style="font-size:10pt;font-style:italic">
+    Archived releases may be out of date.
+    See the project's current website for the latest releases.
+   </span>
+  </td>
   <td>$releases</a></td>
  </tr>
  <tr>
