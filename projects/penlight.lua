@@ -12,4 +12,4 @@ Penlight is a set of pure Lua libraries, with only lfs dependency, for extended 
 ]]
 activity = "12.5%"
 registered = "2009-03-31 11:55"
-website = "http://http://stevedonovan.github.com/Penlight/"
+website = "http://stevedonovan.github.com/Penlight/"
