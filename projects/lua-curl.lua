@@ -3,8 +3,8 @@ prototype      = "@Project"
 releases = [[
 * [lua-curl](http://files.luaforge.net/releases/lua-curl/lua-curl)
 ]]
-owners = "juergen"
-creator = "juergen"
+owners = "msva"
+creator = "juergen, msva"
 abstract = [[
 Lua support for libcurl. Connect and communicate to many different types of servers with many different types of protocols.
 ]]
@@ -14,4 +14,5 @@ tags = "file transfer protocol (ftp), www/http"
 activity = "42.30%"
 registered = "2007-07-05 18:24"
 os = "windows, posix"
-website = "http://lua-curl.luaforge.net"
+website = "http://msva.github.com/lua-curl/"
+source = "https://github.com/msva/lua-curl"

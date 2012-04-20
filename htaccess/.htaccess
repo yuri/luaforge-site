@@ -31,6 +31,9 @@ RewriteRule ^(.*) http://luaforge.net/$1 [L,R=301]
 RewriteCond %{HTTP_HOST} ^download.luaforge.net
 RewriteRule ^(.*) http://luaforge.net/$1 [L,R=301]
 
+RewriteCond %{HTTP_HOST} ^lua-curl.luaforge.net
+RewriteRule ^(.*) http://msva.github.com/lua-curl/ [L,R=301]
+
 RewriteCond %{HTTP_HOST} ^penlight.luaforge.net
 RewriteRule ^(.*) http://stevedonovan.github.com/Penlight/$1 [L,R=301]
 
