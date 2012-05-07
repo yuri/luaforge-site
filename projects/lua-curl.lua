@@ -3,8 +3,8 @@ prototype      = "@Project"
 releases = [[
 * [lua-curl](http://files.luaforge.net/releases/lua-curl/lua-curl)
 ]]
-owners = "msva"
-creator = "juergen, msva"
+owners = "mva"
+creator = "juergen, mva"
 abstract = [[
 Lua support for libcurl. Connect and communicate to many different types of servers with many different types of protocols.
 ]]
