@@ -3,8 +3,8 @@ prototype      = "@Project"
 releases = [[
 * [lua-signal](http://files.luaforge.net/releases/lua-signal/lua-signal)
 ]]
-owners = "doy"
-creator = "doy"
+owners = "mva"
+creator = "doy,mva"
 abstract = [[
 LuaSignal is a library which makes POSIX signal handling capabilities available to Lua programs.
 ]]

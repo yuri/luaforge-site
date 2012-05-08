@@ -3,8 +3,8 @@ prototype      = "@Project"
 releases = [[
 * [luairc](http://files.luaforge.net/releases/luairc/luairc)
 ]]
-owners = "doy"
-creator = "doy"
+owners = "mva"
+creator = "doy,mva"
 abstract = [[
 LuaIRC is a fully featured IRC framework written entirely in Lua. It provides an event driven system for connecting to IRC servers and responding to actions such as messages, joins/parts, channel mode changes, and DCC SEND requests, among other things.
 ]]

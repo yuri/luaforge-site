@@ -3,8 +3,8 @@ prototype      = "@Project"
 releases = [[
 * [luancurses](http://files.luaforge.net/releases/luancurses/luancurses)
 ]]
-owners = "doy"
-creator = "doy"
+owners = "mva"
+creator = "doy,mva"
 abstract = [[
 LuaNcurses is a wrapper around the ncurses terminal handling library, intended to provide the functionality of ncurses in an interface that is more familiar to Lua programmers.
 ]]
