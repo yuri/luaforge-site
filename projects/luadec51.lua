@@ -4,6 +4,7 @@ releases = [[
 * [luadec51](http://files.luaforge.net/releases/luadec51/luadec51)
 * [luadec51-win32-bin](http://files.luaforge.net/releases/luadec51/luadec51-win32-bin)
 ]]
+more_releases = "https://github.com/sztupy/luadec51/downloads"
 owners = "sztupy"
 creator = "sztupy"
 abstract = [[
@@ -15,4 +16,5 @@ tags = "code generators, compilers, interpreters"
 activity = "94.23%"
 registered = "2009-03-25 20:23"
 os = "windows nt/2000, os independent"
-website = "http://luadec51.luaforge.net"
+website = "https://github.com/sztupy/luadec51/wiki"
+source = "https://github.com/sztupy/luadec51"
