@@ -3,7 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [lineqpp](http://files.luaforge.net/releases/lineqpp/lineqpp)
 ]]
-source = [[http://github.com/luaforge/lineqpp]]
+source = [[https://github.com/ramsdell/lineqpp]]
 owners = "ramsdell"
 creator = "ramsdell"
 abstract = [[
@@ -17,3 +17,5 @@ activity = "0%"
 registered = "2008-01-28 22:58"
 os = "posix"
 website = "http://lineqpp.luaforge.net"
+
+

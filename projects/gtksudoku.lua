@@ -3,7 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [gtksudoku](http://files.luaforge.net/releases/gtksudoku/gtksudoku)
 ]]
-source = [[http://github.com/luaforge/gtksudoku]]
+source = [[http://github.com/ramsdell/gtksudoku]]
 owners = "ramsdell"
 creator = "ramsdell"
 abstract = [[
@@ -16,3 +16,4 @@ activity = "0%"
 registered = "2006-08-24 22:06"
 os = "os independent"
 website = "http://gtksudoku.luaforge.net"
+
