@@ -3,6 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [uri](http://files.luaforge.net/releases/uri/uri)
 ]]
+source = [[http://gitorious.org/lua-uri]]
 owners = "geoffrichards"
 creator = "geoffrichards"
 abstract = [[
@@ -14,4 +15,4 @@ tags = "internet"
 activity = "n.a."
 registered = "2007-11-29 23:24"
 os = "os independent"
-website = "http://www.daizucms.org/lua/library/uri/"
+website = "http://www.geoffrichards.co.uk/lua/uri/"

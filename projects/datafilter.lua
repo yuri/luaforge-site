@@ -3,6 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [datafilter](http://files.luaforge.net/releases/datafilter/datafilter)
 ]]
+source = [[http://gitorious.org/lua-datafilter]]
 owners = "geoffrichards"
 creator = "geoffrichards"
 abstract = [[
@@ -14,4 +15,4 @@ tags = "software development"
 activity = "n.a."
 registered = "2007-09-14 19:57"
 os = "os independent"
-website = "http://www.daizucms.org/lua/library/datafilter/"
+website = "http://www.geoffrichards.co.uk/lua/datafilter/"

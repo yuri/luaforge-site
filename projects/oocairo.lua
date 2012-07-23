@@ -3,6 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [oocairo](http://files.luaforge.net/releases/oocairo/oocairo)
 ]]
+source = [[http://gitorious.org/lua-oocairo]]
 owners = "geoffrichards"
 creator = "geoffrichards"
 abstract = [[
@@ -14,4 +15,4 @@ tags = "2d rendering"
 activity = "n.a."
 registered = "2008-09-12 08:05"
 os = "os independent"
-website = "http://www.daizucms.org/lua/library/oocairo/"
+website = "http://www.geoffrichards.co.uk/lua/oocairo/"

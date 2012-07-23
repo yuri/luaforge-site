@@ -3,6 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [imagesize](http://files.luaforge.net/releases/imagesize/imagesize)
 ]]
+source = [[http://gitorious.org/lua-imagesize]]
 owners = "geoffrichards"
 creator = "geoffrichards"
 abstract = [[
@@ -14,4 +15,4 @@ tags = "graphics"
 activity = "n.a."
 registered = "2008-04-08 06:13"
 os = "os independent"
-website = "http://daizucms.org/lua/library/imagesize/"
+website = "http://www.geoffrichards.co.uk/lua/imagesize/"

@@ -3,6 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [memoryfile](http://files.luaforge.net/releases/memoryfile/memoryfile)
 ]]
+source = [[http://gitorious.org/lua-memoryfile]]
 owners = "geoffrichards"
 creator = "geoffrichards"
 abstract = [[
@@ -13,4 +14,4 @@ language = "c, lua 5"
 tags = "software development"
 activity = "n.a."
 registered = "2007-09-21 05:48"
-website = "http://www.daizucms.org/lua/library/memoryfile/"
+website = "http://www.geoffrichards.co.uk/lua/memoryfile/"

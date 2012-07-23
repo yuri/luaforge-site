@@ -3,6 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [isbn](http://files.luaforge.net/releases/isbn/isbn)
 ]]
+source = [[http://gitorious.org/lua-isbn]]
 owners = "geoffrichards"
 creator = "geoffrichards"
 abstract = [[
@@ -14,4 +15,4 @@ tags = "point-of-sale"
 activity = "n.a."
 registered = "2007-09-08 05:56"
 os = "os independent"
-website = "http://www.daizucms.org/lua/library/isbn/"
+website = "http://www.geoffrichards.co.uk/lua/isbn/"
