@@ -13,3 +13,5 @@ tags = "graphics"
 activity = "0%"
 registered = "2010-03-23 09:12"
 website = "http://luafreeimage.luaforge.net"
+source = "https://github.com/tnodir/luafreeimage"
+
