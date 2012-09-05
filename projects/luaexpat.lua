@@ -3,7 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [LuaExpat](http://files.luaforge.net/releases/luaexpat/LuaExpat)
 ]]
-source = [[http://github.com/luaforge/luaexpat]]
+source = "http://code.matthewwild.co.uk/lua-expat"
 owners = "carregal"
 creator = "b0nf4,carregal,mascarenhas,rieru,tomas,tuler"
 abstract = [[
@@ -15,4 +15,4 @@ tags = "xml"
 activity = "73.07%"
 registered = "2004-06-16 13:01"
 os = "os independent"
-website = "http://www.keplerproject.org/luaexpat"
+website = "http://matthewwild.co.uk/projects/luaexpat/"
