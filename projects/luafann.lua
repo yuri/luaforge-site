@@ -3,9 +3,9 @@ prototype      = "@Project"
 releases = [[
 * [luafann](http://files.luaforge.net/releases/luafann/luafann)
 ]]
-source = [[http://github.com/luaforge/luafann]]
-owners = "wstoop"
-creator = "wstoop"
+source = [[https://github.com/msva/lua-fann]]
+owners = "wstoop,mva"
+creator = "wstoop,mva"
 abstract = [[
 A Lua wrapper for the Fast Artificial Neural Network library (http://www.leenissen.dk/fann/).
 
