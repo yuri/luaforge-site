@@ -31,6 +31,15 @@ RewriteRule ^(.*) http://luaforge.net/$1 [L,R=301]
 RewriteCond %{HTTP_HOST} ^download.luaforge.net
 RewriteRule ^(.*) http://luaforge.net/$1 [L,R=301]
 
+RewriteCond %{HTTP_HOST} ^lunary.luaforge.net
+RewriteRule ^(.*) http://piratery.net/lunary/ [L,R=301]
+
+RewriteCond %{HTTP_HOST} ^luse.luaforge.net
+RewriteRule ^(.*) http://piratery.net/luse/ [L,R=301]
+
+RewriteCond %{HTTP_HOST} ^luatcc.luaforge.net
+RewriteRule ^(.*) http://piratery.net/luatcc/ [L,R=301]
+
 RewriteCond %{HTTP_HOST} ^luafann.luaforge.net
 RewriteRule ^(.*) http://msva.github.com/lua-fann [L,R=301]
 

@@ -13,4 +13,4 @@ Luatcc is binding for the libtcc library, which allows to dynamically compile an
 ]]
 activity = "0%"
 registered = "2007-03-11 16:51"
-website = "http://luatcc.luaforge.net"
+website = "http://piratery.net/luatcc/"

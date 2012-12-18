@@ -10,4 +10,4 @@ LUSE is a Lua binding for the FUSE library. It let developpers create a filesyst
 ]]
 activity = "0%"
 registered = "2007-09-16 23:18"
-website = "http://luse.luaforge.net"
+website = "http://piratery.net/luse/"
