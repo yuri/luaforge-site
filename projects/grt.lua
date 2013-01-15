@@ -4,7 +4,7 @@ releases = [[
 * [grt](http://files.luaforge.net/releases/grt/grt)
 * [grt-ri](http://files.luaforge.net/releases/grt/grt-ri)
 ]]
-source = [[http://github.com/luaforge/grt]]
+source = [[https://github.com/ma-everett/luari]]
 owners = "mae"
 creator = "mae"
 abstract = [[
