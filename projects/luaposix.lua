@@ -3,7 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [luaposix](http://files.luaforge.net/releases/luaposix/luaposix)
 ]]
-source = [[https://github.com/rrthomas/luaposix]]
+source = [[https://github.com/luaposix/luaposix]]
 owners = "ncopa,rrt"
 creator = "ncopa,rrt"
 abstract = [[
@@ -15,4 +15,4 @@ tags = "system"
 activity = "97.11%"
 registered = "2008-01-15 06:16"
 os = "posix"
-website = "http://github.com/rrthomas/luaposix"
+website = "http://github.com/luaposix/luaposix"
