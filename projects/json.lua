@@ -3,7 +3,7 @@ prototype      = "@Project"
 releases = [[
 * [json](http://files.luaforge.net/releases/json/json)
 ]]
-source = [[http://github.com/luaforge/json]]
+source = [[https://github.com/craigmj/json4lua]]
 owners = "craigmj"
 creator = "craigmj"
 abstract = [[
