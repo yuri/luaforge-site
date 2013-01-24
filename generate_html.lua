@@ -334,7 +334,10 @@ save("output/tags/index.html", "Projects by Tag", buffer)
 -- Save the project catalog index page.
 table.sort(projects)
 buffer = [[
-<p>For a listing of projects by tags click <a href="/tags/">here</a>.</p>
+<p>
+For a listing of projects by tags click <a href="/tags/">here</a>.
+You might also want to see the <a href="/about/migration/">FAQ</a>.
+</p>
 ]]
 
 projects_by_letter = split_by_letter(projects)
