@@ -82,11 +82,18 @@ RewriteRule ^(.*) http://immerrr.github.com/lua-mode/$1 [L,R=301]
 RewriteCond %{HTTP_HOST} ^jnlua.luaforge.net
 RewriteRule ^(.*) http://www.naef.com/jnlua/$1 [L,R=301]
 
+RewriteRule ^$ http://luaforge.net/projects/ [L,R=301]
+
+RewriteRule ^/$ http://luaforge.net/projects/ [L,R=301]
+
+RewriteCond %{HTTP_HOST} ^lists.luaforge.net
+RewriteRule ^(.*) /lists/$1 [L]
+
+RewriteCond %{HTTP_HOST} ^docman.luaforge.net
+RewriteRule ^(.*) /docman/$1 [L]
+
 RewriteCond %{HTTP_HOST} ^www.(.*).luaforge.net
 RewriteRule ^(.*) /project-pages/%1/$1 [L]
-
-RewriteCond %{HTTP_HOST} ^lunary.luaforge.net
-RewriteRule ^(.*) /project-repos/hg/lunary/doc/$1 [L]
 
 RewriteCond %{HTTP_HOST} ^(.*).luaforge.net
 RewriteRule ^(.*) /project-pages/%1/$1 [L]
