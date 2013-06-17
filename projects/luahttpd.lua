@@ -1,4 +1,4 @@
-title = "luahhtpd, minimal http demon"
+title = "luahttpd, minimal http demon"
 prototype      = "@Project"
 releases = [[
 * [luahttpd](http://files.luaforge.net/releases/luahttpd/luahttpd)
