@@ -4,7 +4,7 @@ releases = [[
 * [SourcePackage](http://files.luaforge.net/releases/lua-wow/SourcePackage)
 * [WindowsBinaries](http://files.luaforge.net/releases/lua-wow/WindowsBinaries)
 ]]
-source = [[http://github.com/luaforge/lua-wow]]
+source = [[https://github.com/cogwheel/lua-wow]]
 owners = "morlando"
 creator = "morlando"
 abstract = [[
