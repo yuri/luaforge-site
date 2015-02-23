@@ -31,6 +31,9 @@ RewriteRule ^(.*) http://luaforge.net/$1 [L,R=301]
 RewriteCond %{HTTP_HOST} ^download.luaforge.net
 RewriteRule ^(.*) http://luaforge.net/$1 [L,R=301]
 
+RewriteCond %{HTTP_HOST} ^lsyslog.luaforge.net
+RewriteRule ^(.*) https://gitorious.org/lsyslog/lsyslog/ [L,R=301]
+
 RewriteCond %{HTTP_HOST} ^grunt.luaforge.net
 RewriteRule ^(.*) https://github.com/JohnHind/Winsh.lua [L,R=301]
 
